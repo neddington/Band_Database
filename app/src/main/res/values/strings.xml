@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beach Boys</item>
+        <item>The Beatles</item>
+        <item>Bee Gees</item>
+        <item>Bon Jovi</item>
+        <item>Depeche Mode</item>
+        <item>Duran Duran</item>
+        <item>Green Day</item>
+        <item>Led Zeppelin</item>
+        <item>Nirvana</item>
+        <item>OneRepublic</item>
+        <item>Radiohead</item>
+        <item>R.E.M</item>
+        <item>U2</item>
+        <item>Magic Sword</item>
+        <item>Starcadian</item>
+        <item>Jimmy Eat World</item>
+        <item>Blink-182</item>
+        <item>Tonebox</item>
+        <item>Pixl</item>
+        <item>Pyramid</item>
+        <item>All The Damn Vampires</item>
+        <item>Phantoms</item>
+        <item>Squazoid</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>Eh.</item>
+        <item>Aye.</item>
+        <item>Oh.</item>
+        <item>Me.</item>
+        <item>Hi.</item>
+        <item>Ho.</item>
+        <item>Me.</item>
+        <item>Mo.</item>
+        <item>Psh.</item>
+        <item>Msh.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+        <item>pzzz.</item>
+    </string-array>
+</resources>
